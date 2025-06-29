@@ -1,0 +1,12 @@
+datasets~=3.4.1
+pandas~=2.2.3
+langchain~=0.3.21
+torch~=2.7.0+cu118
+python-dotenv~=1.0.1
+google-genai~=1.13.0
+flask~=3.1.0
+pytesseract~=0.3.13
+pypdf~=5.6.0
+pdf2image~=1.17.0
+PyMuPDF~=1.25.5
+fastapi~=0.115.11

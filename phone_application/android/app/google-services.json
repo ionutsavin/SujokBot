@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832341382865",
+    "project_id": "sujokbot",
+    "storage_bucket": "sujokbot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832341382865:android:7f7381871c76355f4497f0",
+        "android_client_info": {
+          "package_name": "com.example.phone_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832341382865-s0ajca238vv4g6i9nguusf7ntma9sn9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_application",
+            "certificate_hash": "78bd5526ea1daabca3f4872dbe72c2e95a6ca3f0"
+          }
+        },
+        {
+          "client_id": "832341382865-3mden2uvubb0jbn4juadp3jkrcr5b4do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3AyA1Uk3ebdFRpYE7iGEpab7IPQRjxSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832341382865-3mden2uvubb0jbn4juadp3jkrcr5b4do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
