@@ -41,5 +41,5 @@ You can find a short presentation of the app [here](https://drive.google.com/fil
 
 ## 📄 Bachelor Thesis Documentation
 
-The full thesis documentation (in Romanian) can be found [here](https://drive.google.com/file/d/1UCiEh7AtnvA1gUkqgiXXnV5gGMXH4WDg/view?usp=sharing).
+The full thesis documentation can be found [here](https://drive.google.com/file/d/1UCiEh7AtnvA1gUkqgiXXnV5gGMXH4WDg/view?usp=sharing).
 
