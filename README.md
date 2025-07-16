@@ -36,3 +36,11 @@ The system integrates modern AI components, mobile development, and distributed 
 - Integrate modern NLP techniques in a real-world medical support app
 - Explore the use of distributed systems and scalable architectures in therapeutic tools
 
+## 📹 Demo
+
+You can find a short presentation of the app [here](https://drive.google.com/file/d/1qFVKDK848h4B1nSV2u_Iye4Iz5mN3xgY/view?usp=sharing).
+
+## 📄 Bachelor Thesis Documentation
+
+The full thesis documentation (in Romanian) can be found [here](https://drive.google.com/file/d/1UCiEh7AtnvA1gUkqgiXXnV5gGMXH4WDg/view?usp=sharing).
+
