@@ -1,9 +1,9 @@
 # SuJokBot 🤖🌱  
-A therapeutic chatbot built to support alternative medicine through Su Jok techniques.
+A therapeutic virtual assistant built to support alternative medicine through Su Jok techniques.
 
 ## 📘 Project Overview
 
-**SuJokBot** is a conversational AI system developed as part of my bachelor's thesis in Computer Science. The project aims to assist users in applying Su Jok therapy by providing personalized recommendations based on symptoms, using a custom-trained Retrieval-Augmented Generation (RAG) pipeline and a user-friendly mobile app interface.
+**SuJokBot** is a conversational AI system developed as part of my bachelor's thesis in Computer Science. The project aims to assist users in applying Su Jok therapy by providing personalized recommendations based on symptoms, using a custom-trained Retrieval-Augmented Generation (RAG) system and a user-friendly mobile app interface.
 
 The system integrates modern AI components, mobile development, and distributed architecture principles to offer a complete therapeutic experience.
 
@@ -24,7 +24,6 @@ The system integrates modern AI components, mobile development, and distributed 
 
 - 🔍 **Symptom-based chat interface** for Su Jok therapy guidance
 - 🖐️ **Interactive hand diagram** for seed placement
-- 💬 **Contextual conversation memory** per user
 - 🔐 **Secure authentication** with Firebase
 - 💾 **Multiple chat sessions per user**
 - 📸 **Camera-based hand scanning** for capturing hand images
